@@ -1,11 +1,7 @@
-# Complete User Login & Registration system using PHP and MySQL database
+#Here I have attempted to create a database which accepts users and creates them an account
 
-version: 1.0.0
+#Once you login it will display your name is stored in my database
 
-## Full Tutorial
+#Author
+#Mahanyasa Keesara
 
-[On Youtube](https://youtu.be/QxZxHUf7c_0)
-
-## Authors
-
-[Elias Abdurrahman](https://github.com/eliasFsDev)
